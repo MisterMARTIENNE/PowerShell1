@@ -16,7 +16,7 @@ alias <-> Export-Alias _ou_ Get-Alias _ou_ Import-Alias _ou_ New-Alias _ou_ Set-
 
 cat <-> Get-Content
 
-##Les commandes PowerShell pour trouver les réponces sont:
+## Les commandes PowerShell pour trouver les réponces sont:
 
 Get-Help cp
 
